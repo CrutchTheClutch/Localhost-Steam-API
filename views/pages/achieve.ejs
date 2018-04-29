@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<% include ../partials/head %>
+</head>
+<body>
+	<% include ../partials/header %>
+	<div id="achievements">
+		<div id="achieveTitle">
+			<%= aEarned %> of <%= aTotal %> (<%= aPercent %>%) achievements earned:			
+		</div>
+		<div class="achieveBar">
+			<div id="achieveBarProgress" style="width: <%= aPercent %>%;"></div>
+		</div>
+	</div>
+</body>
+</html>

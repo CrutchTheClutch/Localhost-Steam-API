@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: Arial;
+}
+
+#achievements {
+	padding: 5px;
+	line-height: 18px;
+	background-color: #000000;
+	color: #747474; 
+	width: 350px;
+}
+
+.achieveBar {
+	background: #3a3a3a;
+	padding: 1px;
+	border: 1px solid #aeaeae;
+}
+
+#achieveBarProgress {
+	background: #aeaeae;
+	height: 8px;
+}

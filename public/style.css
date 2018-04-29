@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	font-family: Arial;
+}
+
+#achievements {
+	padding: 5px;
+	padding-top: 0px;
+	line-height: 28px;
+	background-color: #000000;
+	color: #747474; 
+	width: 500px;
+}
+
+.achieveBar {
+	background: #3a3a3a;
+	padding: 2px;
+	border: 1px solid #aeaeae;
+}
+
+#achieveBarProgress {
+	background: #aeaeae;
+	height: 12px;
+}
+
+#achieveTitle {
+	padding-bottom: 1px;
+	line-height: 28px;
+	font-size: 22px;
+}
+
+#header {
+	background: #171a21;
+	color: #fff;
+	margin: 0;
+	width: 510px;
+}
+
+#header h1{
+	background: #171a21;
+	color: #fff;
+	margin: 0;
+	padding: 10px;
+}
