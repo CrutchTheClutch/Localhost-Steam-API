@@ -1,6 +1,9 @@
 # Localhost-Steam-API
 This project provides an easy way to access and use the Steam API on a local machine.
 
+## Why?
+I recently have been using Twitch to stream and wanted a way to track my Steam stats while I played.  The problem was that there was no way to track these stats on screen with OBS.  This project allows streamers to track Steam stats in a web browser on a Localhost server, which you can in turn access through OBS's web browser streaming settings.
+
 ## Installation & Usage
 1. Copy the Localhost-Steam-API folder to your local machine.
 2. Obtain a Steam Web API Key [HERE](https://steamcommunity.com/dev/apikey)
