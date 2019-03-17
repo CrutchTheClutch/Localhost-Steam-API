@@ -1,0 +1,32 @@
+{
+  "name": "localhost-steam-api",
+  "version": "1.0.0",
+  "description": "Provides an easy way to access and use the Steam API on a local machine.",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrutchtheClutch/Localhost-Steam-API.git"
+  },
+  "keywords": [
+    "steam-api",
+    "local-machine",
+    "steam",
+    "steam-stats"
+  ],
+  "author": "William Crutchfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrutchtheClutch/Localhost-Steam-API/issues"
+  },
+  "homepage": "https://github.com/CrutchtheClutch/Localhost-Steam-API#readme"
+}
